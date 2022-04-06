@@ -1,5 +1,5 @@
 #  !Hello my name is Saul Enrique
-### I am a systems engineering student passionate about technology 😄
+### I am a systems engineering student passionate about technology :laughing:
 
 <!--
 **XSaulEnrique/XSaulEnrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

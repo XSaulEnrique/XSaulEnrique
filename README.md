@@ -1,6 +1,7 @@
 #  !Hello my name is Saul Enrique
 ### I am a systems engineering student passionate about technology :laughing:
 [![Twitter Follow](https://img.shields.io/twitter/follow/SaulMGX?style=social)](https://twitter.com/SaulMGX)
+![GitHub Followers](https://img.shields.io/github/followers/XSaulEnrique?style=social)
 
 <!--
 **XSaulEnrique/XSaulEnrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,7 +1,6 @@
 <h1 align="center">Hello my name is Saul Enrique</h2>
-### I am a systems engineering student passionate about technology :laughing:
-[![Twitter Follow](https://img.shields.io/twitter/follow/SaulMGX?style=social)](https://twitter.com/SaulMGX)
-![GitHub Followers](https://img.shields.io/github/followers/XSaulEnrique?style=social)
+<h2>I am a systems engineering student passionate about technology :laughing: </h2>
+
 
 ## Skills:
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()

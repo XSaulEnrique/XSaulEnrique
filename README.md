@@ -1,5 +1,5 @@
 #  🦜 Hello my name is Saul Enrique
-### I am a systems engineering student passionate about technology :laughing:
+### I am a systems student passionate about technology :laughing:
 
 
 

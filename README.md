@@ -2,13 +2,7 @@
 ### I am a systems engineering student passionate about technology :laughing:
 
 
-## Contact & support:
 
-<p align="left">
-<a href="https://www.linkedin.com/in/enrique-mallqui-gutierrez-20402821b/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/alejandro-quintero-mejia/" height="40" width="40" /></a>
-<a href="https://twitter.com/SaulMGX" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="https://twitter.com/SaulMGX" height="40" width="40" /></a>
-<a href="mailto:saulmallqui1999@gmail.com" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mail" height="50" width="40" /></a>
-</p>
 
 ## Skills:
 
